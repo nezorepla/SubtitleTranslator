@@ -4,10 +4,12 @@
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
-    <asp:Button ID="Button1" runat="server" Text="Button" onclick="Button1_Click" />
 
     <p>
-  <asp:FileUpload ID="FileUpload1" runat="server" />  </p>
+  <asp:FileUpload ID="FileUpload1" runat="server" />  
+    <asp:Button ID="Button1" runat="server" Text="Button" onclick="Button1_Click" />
+
+    </p>
     
     <p>
         <asp:Label ID="Label1" runat="server" ></asp:Label>
