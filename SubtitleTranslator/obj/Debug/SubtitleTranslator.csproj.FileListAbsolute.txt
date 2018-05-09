@@ -1,0 +1,4 @@
+C:\Users\alper\Documents\GitHub\SubtitleTranslator\SubtitleTranslator\bin\SubtitleTranslator.dll
+C:\Users\alper\Documents\GitHub\SubtitleTranslator\SubtitleTranslator\bin\SubtitleTranslator.pdb
+C:\Users\alper\Documents\GitHub\SubtitleTranslator\SubtitleTranslator\obj\Debug\SubtitleTranslator.dll
+C:\Users\alper\Documents\GitHub\SubtitleTranslator\SubtitleTranslator\obj\Debug\SubtitleTranslator.pdb
